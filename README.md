@@ -2,20 +2,19 @@
 
 
 
-# [Project Name] 🎯
+# SADHANAM KAYILONDO🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [SLAYGORITHM]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Samera Sudeesh] - [Muthoot Institute of Science and Technology,Varikoly]
+- Member 2: [Rashmi P Menon] - [Muthoot Institute of Science and Technology,Varikoly]
 
 ### Project Description
-[2-3 lines about what your project does]
+Sadhanam Kayyilundo? is a webcam-based hand-gesture game where you hunt down one target object — the sadhanam — using nothing but your bare hands. Point at it, it runs. Pinch to grab it, and pray. It gets worse with every level.
 
 ### The Problem (that doesn't exist)
 [What ridiculous problem are you solving?]
