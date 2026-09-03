@@ -17,31 +17,30 @@
 Sadhanam Kayyilundo? is a webcam-based hand-gesture game where you hunt down one target object — the sadhanam — using nothing but your bare hands. Point at it, it runs. Pinch to grab it, and pray. It gets worse with every level.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Every Malayali household has faced the eternal, unsolvable crisis of "Sadhanam kayyilundo?" — someone yelling from another room asking if you have "the thing" in your hand, when neither of you knows what "the thing" even is. This deeply important cultural trauma had never been turned into a video game. Until now.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We built a game that recreates that exact panic on purpose. Using real-time hand tracking, you have to physically point at and pinch-grab a target object on screen — while it moves, hides, turns invisible, clones itself, inverts your controls, flips your entire screen, and eventually starts lying to you about which object is real. You don't "win" this game so much as survive it.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Languages used: JavaScript, HTML5, CSS3
+- Frameworks used: None — vanilla JS by design, for speed and simplicity
+- Libraries used: MediaPipe Hands (Hand Landmarker) for real-time webcam hand tracking
+- Tools used: VS Code, Chrome DevTools, Git/GitHub
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+Not applicable — this is a software-only project running entirely in-browser via webcam
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+git clone https://github.com/<same-4>/sadhanam-kayyilundo.git
+cd sadhanam-kayyilundo
 
 # Run
-[commands]
+npx serve .
 
 ### Project Documentation
 For Software:
