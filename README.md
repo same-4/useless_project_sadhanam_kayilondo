@@ -26,9 +26,9 @@ We built a game that recreates that exact panic on purpose. Using real-time hand
 ### Technologies/Components Used
 For Software:
 - Languages used: JavaScript, HTML5, CSS3
-- Frameworks used: None — vanilla JS by design, for speed and simplicity
+- Frameworks used: None — vanilla JS 
 - Libraries used: MediaPipe Hands (Hand Landmarker) for real-time webcam hand tracking
-- Tools used: VS Code, Chrome DevTools, Git/GitHub
+- Tools used: VS Code, Chrome DevTools, Git/GitHub,Vercel
 
 For Hardware:
 Not applicable — this is a software-only project running entirely in-browser via webcam
@@ -46,18 +46,22 @@ npx serve .
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="1920" height="1027" alt="image" src="https://github.com/user-attachments/assets/b383f4bc-d73f-440f-ad7a-9e57aba526ec" />
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+The starting screen introduces the player to Sadhanam Kayyilundo? and the available interaction methods.
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="1920" height="1033" alt="image" src="https://github.com/user-attachments/assets/1271ffe0-1bee-4da2-9215-685415b1e4c5" />
+
+The player searches for the target object using hand gestures.
+
+<img width="1902" height="1023" alt="image" src="https://github.com/user-attachments/assets/a0df292a-0247-43b4-a83f-616718b17c48" />
+
+An example of the increasingly chaotic challenges introduced by the game.
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+<img width="709" height="1884" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/a6914799-5d8c-4374-9928-53682788ea58" />
+
+Workflow showing how webcam input is converted into hand gestures and game interactions.
 
 For Hardware:
 
@@ -84,12 +88,13 @@ For Hardware:
 *Explain what the video demonstrates*
 
 # Additional Demos
-[Add any extra demo materials/links]
+Live Demo:https://sadhanamkayilondo-g3fd.vercel.app/
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Samera Sudeesh]: [Developed the core game mechanics and hand-gesture interaction system.
+Implemented game levels, target behaviour, audio feedback, and deployment.]
+- [Rashmi P Menon]: [Contributed to game design, level concepts, and UI/UX.
+Performed testing, debugging, documentation, and presentation.]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
