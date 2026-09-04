@@ -91,12 +91,13 @@ For Hardware:
 Live Demo:https://sadhanamkayilondo-g3fd.vercel.app/
 
 ## Team Contributions
-- [Samera Sudeesh]: [Developed the core game mechanics and hand-gesture interaction system.
+- **Samera Sudeesh**
+  - Developed the core game mechanics and hand-gesture interaction system.
+  - Implemented game levels, target behaviour, audio feedback, and deployment.
 
-Implemented game levels, target behaviour, audio feedback, and deployment.]
-- [Rashmi P Menon]: [Contributed to game design, level concepts, and UI/UX.
-
-Performed testing, debugging, documentation, and presentation.]
+- **Rashmi P Menon**
+  - Contributed to game design, level concepts, and UI/UX.
+  - Performed testing, debugging, documentation, and presentation.
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
