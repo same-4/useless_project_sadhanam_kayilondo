@@ -88,7 +88,7 @@ https://drive.google.com/file/d/1hbjcByQXJNhLe5cuo_-u-RNkxyp2nUCE/view?usp=drive
 *Explain what the video demonstrates*
 
 # Additional Demos
-Live Demo:https://sadhanamkayilondo-g3fd.vercel.app/
+Live Demo:https://sadhanamkayilondo-dje2.vercel.app/
 
 ## Team Contributions
 - **Samera Sudeesh**
